@@ -22,6 +22,7 @@
 | `feat: 集成 Web Speech API 连续语音识别` | voice-controller.js |
 | `feat: 串联语音、解析与绘图，实现纯语音交互` | app.js |
 | `docs: 添加设计文档与本地启动脚本` | DESIGN.md + start.bat |
+| `chore: 添加 PR 描述模板与推送脚本` | PR_BODY.md + push-and-pr.bat |
 
 ## Test plan
 
